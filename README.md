@@ -35,7 +35,9 @@ sudo apt-get install fswebcam
 
   ```
   sudo apt-get install python-setuptools
-sudo easy_install -U RPIO ```
+sudo easy_install -U RPIO
+
+ ```
 
 5. Copy the facetrack.py file into the raspberry home folder
 6. Copy the
